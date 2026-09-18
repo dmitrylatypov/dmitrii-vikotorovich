@@ -17,7 +17,7 @@ CS senior specializing in game development, C++, and real-time rendering. Experi
 
 | | |
 |---|---|
-| **Languages** | C++ · Java · JavaScript · SQL · PHP · HTML · CSS |
+| **Languages** | C++ · Python · Java · JavaScript · SQL · PHP · HTML · CSS |
 | **Game Dev** | Unreal Engine 5 · OpenGL · DirectX · Blueprint · Autodesk Maya |
 | **Principles** | Object-Oriented Programming · Scalable Systems Design · SDLC |
 | **Web & Data** | React.js · Node.js · TypeScript · MATLAB · Excel |
